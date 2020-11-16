@@ -14,6 +14,8 @@ int main(){
 	float temp,res;
 	int opc;
 	
+	cout<<"Hello"<<endl;
+	
 	cout<<"Ingrese temperatura"<<endl;
 	cin >> temp;
 	
