@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 
     char confirmacion[20];
     float monto=0;
-
+    //Esto aca
 
 	if ( (pid1=fork()) == 0 )
 	{ /* Registro */

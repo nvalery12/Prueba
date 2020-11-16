@@ -24,6 +24,8 @@ int main(){
 	cout<<"[1] Celsius"<<endl;
 	cout<<"[2] Fahrenheit"<<endl;
 	cin >> opc;
+
+	//Comentando
 	
 	int id=fork();
 	if(id<0){
